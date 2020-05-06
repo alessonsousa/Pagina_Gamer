@@ -142,7 +142,7 @@ ol {
 	border-radius: 50px;
 	font-weight: 500;
 	border: none;
-	background: #ffb320;
+	background: #40abf5;
 	cursor: pointer;
 }
 
@@ -252,7 +252,7 @@ ol {
 	clear: both;
 	overflow: hidden;
 	padding: 18px 0;
-	border-bottom: 1px solid #ffb320;
+	border-bottom: 1px solid #40abf5;
 }
 
 .site-logo {
@@ -264,7 +264,7 @@ ol {
 .user-panel {
 	float: right;
 	font-weight: 500;
-	background: #ffb320;
+	background: #40abf5;
 	padding: 8px 28px;
 	border-radius: 30px;
 }
@@ -297,7 +297,7 @@ ol {
 }
 
 .main-menu ul li a:hover {
-	color: #ffb320;
+	color: #40abf5;
 }
 
 .header-btn {
@@ -335,7 +335,7 @@ ol {
 }
 
 .hero-slider .hs-text h2 span {
-	color: #ffb320;
+	color: #40abf5;
 }
 
 .hero-slider .hs-text p {
@@ -400,7 +400,7 @@ ol {
 }
 
 .hero-slider .owl-dots .owl-dot.active {
-	background: #ffb320;
+	background: #40abf5;
 }
 
 /*---------------------
@@ -428,7 +428,7 @@ ol {
 	font-size: 18px;
 	font-weight: 500;
 	color: #fff;
-	background: #ffb320;
+	background: #40abf5;
 	z-index: 1;
 }
 
@@ -562,7 +562,7 @@ ol {
 }
 
 .recent-game-item .rgi-extra .rgi-star {
-	background: #ffb320;
+	background: #40abf5;
 }
 
 .recent-game-item .rgi-extra .rgi-heart {
@@ -599,7 +599,7 @@ ol {
 	font-weight: 700;
 	color: #131313;
 	text-transform: uppercase;
-	background: #ffb320;
+	background: #40abf5;
 }
 
 .tournament-item .ti-content {
@@ -618,7 +618,7 @@ ol {
 }
 
 .tournament-item .ti-text h4 {
-	color: #ffb320;
+	color: #40abf5;
 	margin-bottom: 20px;
 }
 
@@ -644,7 +644,7 @@ ol {
 
 .tournament-item .ti-text p span {
 	font-weight: 500;
-	color: #ffb320;
+	color: #40abf5;
 }
 
 /*----------------------
@@ -677,7 +677,7 @@ ol {
 }
 
 .review-item .review-cover .score.yellow {
-	background: #ffb320;
+	background: #40abf5;
 }
 
 .review-item .review-cover .score.purple {
@@ -765,7 +765,7 @@ ol {
 
 .latest-blog .lb-item .lb-content .lb-date {
 	font-size: 12px;
-	color: #ffb320;
+	color: #40abf5;
 	margin-bottom: 8px;
 }
 
@@ -817,13 +817,16 @@ ol {
 
 .top-comment .tc-item .tc-content .tc-date {
 	font-size: 12px;
-	color: #ffb320;
+	color: #40abf5;
 }
 
 /*----------------------
   Footer Section
 ------------------------*/
-
+.cor-menu{
+	background-color: #007575;
+	border-radius: 47%;
+}
 .footer-section {
 	padding: 18px 0 16px;
 	overflow: hidden;
@@ -897,7 +900,7 @@ ol {
 }
 
 .site-pagination .active {
-	background: #ffb320;
+	background: #40abf5;
 }
 
 .site-pagination.sp-style-2 a,
@@ -906,7 +909,7 @@ ol {
 }
 
 .site-pagination.sp-style-2 .active {
-	background: #ffb320;
+	background: #40abf5;
 }
 
 .widget-item {
@@ -1004,7 +1007,7 @@ ol {
 }
 
 .single-blog-page .blog-thumb .rgi-extra .rgi-star {
-	background: #ffb320;
+	background: #40abf5;
 }
 
 .single-blog-page .blog-thumb .rgi-extra .rgi-heart {
@@ -1062,7 +1065,7 @@ ol {
 }
 
 .comment-list .comment .comment-content h5 span {
-	color: #ffb320;
+	color: #40abf5;
 	padding-left: 18px;
 }
 
@@ -1175,7 +1178,7 @@ ol {
 
 .community-post-list .community-post .post-content .post-date {
 	font-size: 12px;
-	color: #ffb320;
+	color: #40abf5;
 	margin-bottom: 18px;
 }
 
@@ -1233,7 +1236,7 @@ ol {
 	float: left;
 	font-size: 16px;
 	font-weight: 700;
-	color: #ffb320;
+	color: #40abf5;
 }
 
 .contact-info-list .cf-right {

@@ -1,0 +1,31 @@
+{
+  "name": "pagina_gamer",
+  "version": "1.0.0",
+  "description": "site feito com as melhores tecnologias do mercado",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alessonsousa/Pagina_Gamer.git"
+  },
+  "keywords": [
+    "gamer",
+    "node",
+    "node.js",
+    "express",
+    "mongodb",
+    "mongoose"
+  ],
+  "author": "Alesson sousa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alessonsousa/Pagina_Gamer/issues"
+  },
+  "homepage": "https://github.com/alessonsousa/Pagina_Gamer#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.12"
+  }
+}
